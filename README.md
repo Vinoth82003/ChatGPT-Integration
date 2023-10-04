@@ -89,7 +89,7 @@ To get an API key from OpenAI:
 Start the development server:
 
 ```bash
-npm start
+node server/index.js
 ```
 
 This will start the server, and your web application will be accessible at `http://127.0.0.1:3000` by default.

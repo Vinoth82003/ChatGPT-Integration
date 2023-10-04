@@ -33,7 +33,7 @@ app.post("/api/chat", express.json(), async (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log(`Server running on port ${port}`);
+  console.log(`http://127.0.0.1:${port}`);
   userInterface.prompt();
   userInterface.on("line", async (input) => {
     const response = await askOpenAI(input);

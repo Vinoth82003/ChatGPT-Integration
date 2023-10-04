@@ -26,7 +26,7 @@ sendButton.addEventListener("click", async () => {
     if (isAskingForPersonalInfo) {
       // If any keyword is found, the user is asking about personal information
       let response =
-        "I am JARVIS created by IT-B BOYS. My purpose is to assist and provide helpful information about mobile issues resolving.\n" +
+        "I am JARVIS created by Vinoth S. My purpose is to assist and provide helpful information about mobile issues resolving.\n" +
         "If you have any questions, feel free to ask!";
 
       // Display the response with a line break

@@ -98,6 +98,27 @@ This will start the server, and your web application will be accessible at `http
 
 You can interact with the web application by visiting the URL in your web browser or by using a tool like `curl`. You can also interact with it through the command line by following the prompts.
 
+## Troubleshooting
+
+If you find that the application is not responding to your input or if it's been unresponsive for an extended period, here are some steps to troubleshoot the issue:
+
+1. **Check Browser Developer Tools**:
+   - Open the developer tools of your web browser (usually by pressing `F12` or right-clicking and selecting "Inspect").
+   - Look for any error messages or warnings in the console. These messages can provide clues about what might be going wrong.
+
+2. **Reload the Page**:
+   - Sometimes, a simple page refresh can resolve issues. Press `F5` or click the browser's refresh button to reload the page.
+
+3. **Resend Your Message**:
+   - If the application is still not responding after a refresh, try sending your message again. It's possible that the issue was temporary.
+
+4. **Check Your API Key**:
+   - One common error is an "API Key expired" error. Ensure that your API key in the `.env` file is valid and has not expired.
+
+By following these steps, you can often resolve minor issues with the application. If the problem persists or you encounter other errors, please feel free to reach out for further assistance.
+
+Remember, the most common issue is related to the API key, so double-check its validity first.
+
 ## Usage
 
 This web application is designed to assist users in troubleshooting mobile-related issues. Simply enter your mobile device issue or question, and the application will provide relevant troubleshooting suggestions and solutions.

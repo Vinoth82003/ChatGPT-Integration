@@ -126,7 +126,3 @@ This web application is designed to assist users in troubleshooting mobile-relat
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Contributing
-
-If you'd like to contribute to the project, please follow our [contribution guidelines](CONTRIBUTING.md).

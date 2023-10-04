@@ -60,7 +60,7 @@ git clone https://github.com/Vinoth82003/ChatGPT-Integration
 Navigate to the project's root directory and install the dependencies:
 
 ```bash
-cd project-directory
+cd ChatGPT-Integration
 npm install
 ```
 

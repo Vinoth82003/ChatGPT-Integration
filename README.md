@@ -1,8 +1,8 @@
-# ChatGPT Integration
+# ChatGPT Integration for Mobile Troubleshooting
 
 ## Overview
 
-This project is a web application that utilizes the OpenAI GPT-3.5 Turbo model to generate chat responses based on user input. It consists of both a front-end component (in the "public" directory) and a back-end server (in the "server" directory) to interact with the OpenAI API.
+This project is a web application that utilizes the OpenAI GPT-3.5 Turbo model to generate chat responses based on user input. It has been specifically designed to assist users in troubleshooting mobile-related issues. The application consists of both a front-end component (in the "public" directory) and a back-end server (in the "server" directory) to interact with the OpenAI API.
 
 ## Project Structure
 
@@ -100,7 +100,7 @@ You can interact with the web application by visiting the URL in your web browse
 
 ## Usage
 
-Explain how to use the web application, including any user interfaces, inputs, and expected outputs.
+This web application is designed to assist users in troubleshooting mobile-related issues. Simply enter your mobile device issue or question, and the application will provide relevant troubleshooting suggestions and solutions.
 
 ## License
 

@@ -52,7 +52,7 @@ Make sure you have the following installed:
 Clone the project repository to your local machine:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Vinoth82003/ChatGPT-Integration
 ```
 
 ### 3. Install Dependencies

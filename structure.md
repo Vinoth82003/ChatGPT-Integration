@@ -1,0 +1,13 @@
+- root(your root directory name)
+  - node_modules
+  - public
+    - img
+    - index.html
+    - script.js
+    - styles.css
+  - server
+    - index.js
+  - .env
+  - .gitignore
+  - package-lock.json
+  - package.json
